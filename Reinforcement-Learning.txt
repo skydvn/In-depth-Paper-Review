@@ -1,1 +1,2 @@
 1 - Trust Region Policy Optimization:  https://www.youtube.com/watch?v=CKaN5PgkSBc
+2 - EigenGame: https://medium.com/analytics-vidhya/what-is-eigen-game-d6dda6c980b1
